@@ -3,12 +3,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Url class
 Name:		php-horde-Horde_Url
-Version:	1.0.0
+Version:	1.0.2
 Release:	1
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
-# Source0-md5:	4f46e995702fa5e3a625b0bc05f377c6
+# Source0-md5:	3482f83a283de78497c7e80648a00880
 URL:		https://github.com/horde/horde/tree/master/framework/Url/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
