@@ -1,6 +1,5 @@
 %define		status		stable
 %define		pearname	Horde_Url
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Url class
 Name:		php-horde-Horde_Url
 Version:	1.0.2
