@@ -3,7 +3,7 @@
 Summary:	%{pearname} - Horde Url class
 Name:		php-horde-Horde_Url
 Version:	1.0.2
-Release:	1
+Release:	2
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
